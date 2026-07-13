@@ -1,6 +1,6 @@
 # Data Structures & Algorithms
 
-- ✅ 350+ problems solved
+- ✅ 330+ problems solved
 - Sources:
   - LeetCode
   - NeetCode 150
